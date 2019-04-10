@@ -4,8 +4,7 @@ package mooc.vandy.java4android.calculator.logic;
  * Perform the Subtract operation.
  */
 public class Subtract extends Abstract_Base {
-    // TODO -- start your code here
-
+    
     //Constructor
     public Subtract(int value1,int value2){
         super(value1,value2);
