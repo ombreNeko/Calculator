@@ -4,8 +4,7 @@ package mooc.vandy.java4android.calculator.logic;
  * Perform the Add operation.
  */
 public class Add extends Abstract_Base{
-    // TODO -- start your code here
-
+    
     //Constructor
     public Add(int value1,int value2){
         super(value1,value2);
