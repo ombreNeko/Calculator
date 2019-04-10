@@ -4,8 +4,7 @@ package mooc.vandy.java4android.calculator.logic;
  * Perform the Multiply operation.
  */
 public class Multiply extends Abstract_Base{
-    // TODO -- start your code here
-
+  
     //Constructor
     public Multiply(int value1,int value2){
         super(value1,value2);
