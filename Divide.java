@@ -4,7 +4,7 @@ package mooc.vandy.java4android.calculator.logic;
  * Perform the Divide operation.
  */
 public class Divide extends Abstract_Base {
-    // TODO -- start your code here
+   
     //Division requires this field unlike the other
     //operations according to the problem statement
     private int remainder=0;
